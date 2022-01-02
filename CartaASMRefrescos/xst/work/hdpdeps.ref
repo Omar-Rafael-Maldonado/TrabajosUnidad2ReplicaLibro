@@ -1,0 +1,9 @@
+V3 4
+FL C:/.Xilinx/CartaASMRefrescos/maquina.vhd 2022/01/01.20:46:12 P.20131013
+FL C:/Users/omara/OneDrive/Escritorio/CartaASMRefrescos/maquina.vhd 2022/01/02.12:00:23 P.20131013
+EN work/maquina 1641143489 \
+      FL C:/Users/omara/OneDrive/Escritorio/CartaASMRefrescos/maquina.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/maquina/arq_maq 1641143490 \
+      FL C:/Users/omara/OneDrive/Escritorio/CartaASMRefrescos/maquina.vhd \
+      EN work/maquina 1641143489

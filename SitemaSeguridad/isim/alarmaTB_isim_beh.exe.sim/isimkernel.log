@@ -1,0 +1,29 @@
+Command line:
+   alarmaTB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53454
+
+Sat Jan 01 21:50:27 2022
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5150.2 Meg
+
+ Total Signals          : 18
+ Total Nets             : 10
+ Total Signal Drivers   : 7
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 371
+Total Line Count : 48
+
+ Total Simulation Time: 2.71875 sec
+
+ Current Memory Usage: 4678.34 Meg
+
+Sat Jan 01 23:12:02 2022
+

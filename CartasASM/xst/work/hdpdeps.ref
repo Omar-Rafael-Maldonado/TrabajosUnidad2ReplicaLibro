@@ -1,0 +1,7 @@
+V3 4
+FL C:/.Xilinx/CartasASM/tren.vhd 2022/01/01.16:39:48 P.20131013
+FL C:/Users/omara/OneDrive/Escritorio/CartasASM/tren.vhd 2022/01/02.11:40:46 P.20131013
+EN work/tren 1641141655 FL C:/Users/omara/OneDrive/Escritorio/CartasASM/tren.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/tren/asm 1641141656 \
+      FL C:/Users/omara/OneDrive/Escritorio/CartasASM/tren.vhd EN work/tren 1641141655

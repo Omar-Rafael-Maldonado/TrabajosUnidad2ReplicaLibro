@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/.Xilinx/CartaASMRefrescos/maquinaTB_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="maquinatb" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/maquinatb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/moneda" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">moneda</obj_property>
+      <obj_property name="ObjectShortName">moneda</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/mp" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mp</obj_property>
+      <obj_property name="ObjectShortName">mp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/precio" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">precio</obj_property>
+      <obj_property name="ObjectShortName">precio</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/lc" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">lc</obj_property>
+      <obj_property name="ObjectShortName">lc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/ls" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ls</obj_property>
+      <obj_property name="ObjectShortName">ls</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/cap" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cap</obj_property>
+      <obj_property name="ObjectShortName">cap</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/limpia" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">limpia</obj_property>
+      <obj_property name="ObjectShortName">limpia</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/sirve" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sirve</obj_property>
+      <obj_property name="ObjectShortName">sirve</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/cambio" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cambio</obj_property>
+      <obj_property name="ObjectShortName">cambio</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/dec" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">dec</obj_property>
+      <obj_property name="ObjectShortName">dec</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/im" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">im</obj_property>
+      <obj_property name="ObjectShortName">im</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/q2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q2</obj_property>
+      <obj_property name="ObjectShortName">q2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/q1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q1</obj_property>
+      <obj_property name="ObjectShortName">q1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/maquinatb/q0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q0</obj_property>
+      <obj_property name="ObjectShortName">q0</obj_property>
+   </wvobject>
+</wave_config>

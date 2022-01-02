@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/omara/OneDrive/Escritorio/CartaASMRefrescos/maquinaTB_isim_beh.exe" -prj "C:/Users/omara/OneDrive/Escritorio/CartaASMRefrescos/maquinaTB_beh.prj" "maquinaTB" 

@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/.Xilinx/SitemaSeguridad/c_alarma.xst" -ofn "C:/.Xilinx/SitemaSeguridad/c_alarma.syr" 
+xst -intstyle ise -ifn "C:/.Xilinx/SitemaSeguridad/c_alarma.xst" -ofn "C:/.Xilinx/SitemaSeguridad/c_alarma.syr" 
+xst -intstyle ise -ifn "C:/Users/omara/OneDrive/Escritorio/SitemaSeguridad/c_alarma.xst" -ofn "C:/Users/omara/OneDrive/Escritorio/SitemaSeguridad/c_alarma.syr" 

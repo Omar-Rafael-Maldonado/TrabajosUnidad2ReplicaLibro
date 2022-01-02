@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/.Xilinx/SitemaSeguridad/alarmaTB_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="alarmatb" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/alarmatb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/alarmatb/fx" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">fx</obj_property>
+      <obj_property name="ObjectShortName">fx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/alarmatb/cont4" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cont4</obj_property>
+      <obj_property name="ObjectShortName">cont4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/alarmatb/boton" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">boton</obj_property>
+      <obj_property name="ObjectShortName">boton</obj_property>
+   </wvobject>
+   <wvobject fp_name="/alarmatb/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/alarmatb/inc" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">inc</obj_property>
+      <obj_property name="ObjectShortName">inc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/alarmatb/activa" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">activa</obj_property>
+      <obj_property name="ObjectShortName">activa</obj_property>
+   </wvobject>
+   <wvobject fp_name="/alarmatb/alarma" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">alarma</obj_property>
+      <obj_property name="ObjectShortName">alarma</obj_property>
+   </wvobject>
+</wave_config>

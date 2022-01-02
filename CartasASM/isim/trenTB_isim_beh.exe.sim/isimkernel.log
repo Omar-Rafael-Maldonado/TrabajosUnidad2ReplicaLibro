@@ -1,0 +1,29 @@
+Command line:
+   trenTB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52295
+
+Sat Jan 01 16:49:00 2022
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5149.66 Meg
+
+ Total Signals          : 22
+ Total Nets             : 12
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 373
+Total Line Count : 24
+
+ Total Simulation Time: 0.6875 sec
+
+ Current Memory Usage: 4677.8 Meg
+
+Sat Jan 01 17:04:39 2022
+

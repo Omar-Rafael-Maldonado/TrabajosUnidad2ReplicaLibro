@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/omara/OneDrive/Escritorio/CartasASM/tren_isim_beh.exe" -prj "C:/Users/omara/OneDrive/Escritorio/CartasASM/tren_beh.prj" "work.tren" 

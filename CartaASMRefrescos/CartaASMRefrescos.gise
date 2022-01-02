@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="CartaASMRefrescos.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="maquina.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="maquina.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="maquina.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="maquina.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="maquina.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="maquina.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="maquina.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="maquina.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="maquinaTB_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="maquinaTB_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="maquina_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="maquina_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="maquina_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="maquina_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1641077211" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1641077211">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641142987" xil_pn:in_ck="-4516026439420886962" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1641142987">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="maquina.vhd"/>
+      <outfile xil_pn:name="maquinaTB.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077267" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="3111408299166914754" xil_pn:start_ts="1641077267">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077267" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-7783197111046029948" xil_pn:start_ts="1641077267">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077211" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-5629921114050753082" xil_pn:start_ts="1641077211">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641142987" xil_pn:in_ck="-4516026439420886962" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1641142987">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="maquina.vhd"/>
+      <outfile xil_pn:name="maquinaTB.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1641142991" xil_pn:in_ck="-4516026439420886962" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-2569094703403216868" xil_pn:start_ts="1641142987">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641088107" xil_pn:in_ck="-4814868386363452655" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-6905351046743742145" xil_pn:start_ts="1641088106">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutOfDateForced"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="maquinaTB_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077562" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1641077562">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077562" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-3443270628240459392" xil_pn:start_ts="1641077562">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077562" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-5629921114050753082" xil_pn:start_ts="1641077562">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077562" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1641077562">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077562" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="3608404115713156862" xil_pn:start_ts="1641077562">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077562" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-3893270297158069842" xil_pn:start_ts="1641077562">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641077562" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="8602358738320624400" xil_pn:start_ts="1641077562">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1641143495" xil_pn:in_ck="171608073938353372" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="-2446129958174884199" xil_pn:start_ts="1641143486">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name=".lso"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="maquina.lso"/>
+      <outfile xil_pn:name="maquina.ngc"/>
+      <outfile xil_pn:name="maquina.ngr"/>
+      <outfile xil_pn:name="maquina.prj"/>
+      <outfile xil_pn:name="maquina.stx"/>
+      <outfile xil_pn:name="maquina.syr"/>
+      <outfile xil_pn:name="maquina.xst"/>
+      <outfile xil_pn:name="maquina_vhdl.prj"/>
+      <outfile xil_pn:name="maquina_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

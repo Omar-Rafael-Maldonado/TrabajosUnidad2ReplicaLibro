@@ -1,0 +1,9 @@
+V3 4
+FL C:/.Xilinx/SitemaSeguridad/c_alarma.vhd 2022/01/01.23:25:11 P.20131013
+FL C:/Users/omara/OneDrive/Escritorio/SitemaSeguridad/c_alarma.vhd 2022/01/01.23:25:11 P.20131013
+EN work/c_alarma 1641143759 \
+      FL C:/Users/omara/OneDrive/Escritorio/SitemaSeguridad/c_alarma.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/c_alarma/arq_alarma 1641143760 \
+      FL C:/Users/omara/OneDrive/Escritorio/SitemaSeguridad/c_alarma.vhd \
+      EN work/c_alarma 1641143759

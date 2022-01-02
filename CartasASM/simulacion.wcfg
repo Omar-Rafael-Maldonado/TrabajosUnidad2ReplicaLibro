@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/.Xilinx/CartasASM/trenTB_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="trentb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/trentb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trentb/tiempo" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tiempo</obj_property>
+      <obj_property name="ObjectShortName">tiempo</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trentb/sp" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sp</obj_property>
+      <obj_property name="ObjectShortName">sp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trentb/sensor" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sensor</obj_property>
+      <obj_property name="ObjectShortName">sensor</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trentb/pa" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pa</obj_property>
+      <obj_property name="ObjectShortName">pa</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trentb/pc" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pc</obj_property>
+      <obj_property name="ObjectShortName">pc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trentb/avance" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">avance</obj_property>
+      <obj_property name="ObjectShortName">avance</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trentb/paro" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">paro</obj_property>
+      <obj_property name="ObjectShortName">paro</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trentb/q0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q0</obj_property>
+      <obj_property name="ObjectShortName">q0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trentb/q1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">q1</obj_property>
+      <obj_property name="ObjectShortName">q1</obj_property>
+   </wvobject>
+</wave_config>

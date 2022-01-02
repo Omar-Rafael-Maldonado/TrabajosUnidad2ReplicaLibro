@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/.Xilinx/CartasASM/tren.xst" -ofn "C:/.Xilinx/CartasASM/tren.syr" 
+xst -intstyle ise -ifn "C:/Users/omara/OneDrive/Escritorio/CartasASM/tren.xst" -ofn "C:/Users/omara/OneDrive/Escritorio/CartasASM/tren.syr" 
